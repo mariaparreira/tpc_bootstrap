@@ -1,0 +1,49 @@
+.topnav {
+    overflow: hidden;
+    background-color: #333333;
+}
+
+.topnav a {
+    float: left;
+    padding: 14px 16px;
+    font-size: 14px;
+    color: #ffffff;
+}
+
+.topnav a.active {
+    color: #ffffff;
+    background-color: #536bad;
+}
+
+#srch {
+    margin-left: 600px;
+}
+
+#search {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.button {
+    color: #ffffff;
+    background-color: #536bad;
+    text-align: center;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#hiden {
+    color: #536bad;
+}
+
+article {
+    color: #ffffff;
+    text-align: center;
+}
+
+.foot {
+    color: #ffffff;
+    text-align: center;
+    background-color: #536bad;
+}
